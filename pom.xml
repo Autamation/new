@@ -17,12 +17,12 @@
   <distributionManagement>
 
 		<repository>
-			<id>ARTECH</id>
-			<url>http://localhost:8081/nexus/content/repositories/ARTECH/</url>
+			<id>A</id>
+			<url>http://localhost:8081/nexus/content/repositories/A1/</url>
 		</repository>
 		<snapshotRepository>
-			<id>ARTECH2</id>
-			<url>http://localhost:8081/nexus/content/repositories/ARTECH2/</url>
+			<id>AA</id>
+			<url>http://localhost:8081/nexus/content/repositories/A11/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
